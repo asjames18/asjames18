@@ -57,11 +57,53 @@ AI + Automation + Enterprise Systems + SaaS + Open Source + Ownership
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Enterprise, Automation & AI
+### Enterprise & Automation
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Automation-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs_&_Integrations-111827?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+## 🧠 AI Models, Platforms & Agent Tools
+
+I actively build with, evaluate, or experiment across the modern AI ecosystem — from frontier hosted models to local inference, coding agents, model routers, and agent frameworks.
+
+### Frontier Models & Model Families
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Llama](https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6C5CE7?style=for-the-badge&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi_AI-111827?style=for-the-badge&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-7C3AED?style=for-the-badge&logoColor=white)
+
+### AI Platforms, Search & Model Infrastructure
+[![OpenRouter](https://img.shields.io/badge/OpenRouter-111827?style=flat-square&logoColor=white)](https://openrouter.ai)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co)
+[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)](https://www.perplexity.ai)
+![Manus](https://img.shields.io/badge/Manus_AI-111827?style=flat-square&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-111827?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Local AI](https://img.shields.io/badge/Local_AI-0F172A?style=flat-square&logo=serverfault&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square&logoColor=white)
+
+### AI Coding, Agents & Developer Workflow
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111827?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=flat-square&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=flat-square&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-10B981?style=flat-square&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-2563EB?style=flat-square&logoColor=white)
+![Multi Agent](https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=flat-square&logoColor=white)
+
+> **Current interests:** agentic workflows · MCP · local/private AI · model routing · RAG · tool calling · multi-agent systems · AI-assisted software engineering
 
 ---
 
