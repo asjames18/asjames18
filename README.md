@@ -7,7 +7,7 @@
 Building practical **AI systems, automations, SaaS products, enterprise integrations, and open-source technology** that create real-world leverage, ownership, and opportunity.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-antoniojames.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://antoniojames.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_James-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniojames)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_James-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniosjames/)
 [![X](https://img.shields.io/badge/X-@donatelloinvest-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/donatelloinvest)
 
 </div>
