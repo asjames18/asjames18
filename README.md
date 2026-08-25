@@ -161,10 +161,17 @@ Custom enterprise work spanning **Ellucian Experience, workflow automation, iden
 
 ## 📊 GitHub Activity
 
+<table>
+<tr>
+<td width="33%" align="center"><strong>Build</strong><br/>AI systems · SaaS · automation</td>
+<td width="33%" align="center"><strong>Ship</strong><br/>Production apps · integrations · tools</td>
+<td width="33%" align="center"><strong>Share</strong><br/>Open source · experiments · lessons</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asjames18&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Antonio James GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjames18&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
+[**View repositories**](https://github.com/asjames18?tab=repositories) · [**Contribution activity**](https://github.com/asjames18?tab=overview) · [**Pull requests**](https://github.com/pulls)
 
 </div>
 
